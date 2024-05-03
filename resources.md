@@ -4,9 +4,8 @@
 
 I created this learning path using [roadmap.sh](https://roadmap.sh/) and plan to follow [freecodeCamps] learning path / courses. https://www.freecodecamp.org/learn
 <details>![My Learning Path - Frontend Development Roadmap]
-C:\Users\JCarrillo8\Desktop\CST250\My Learning Path - Frontend Development Roadmap.jpg
-    <summary>My learning path</summary>
-        !
+![RoadMap - Front End](https://github.com/jcrrilloo/100DaysOfCode-JC/assets/164308283/be748078-2b96-4606-82b0-5bac69976e8d)
+
         <p style="font-size: 12">Path last updated: 5/2/24</p>
 </details>
 
