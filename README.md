@@ -10,7 +10,7 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 | ------------ | ------------ | ------------ |
 | 1 | May 2nd, 2024 | --------|
 
-[Daily Log](https://github.com/kylecreate/100DaysOfCode/blob/main/r1-log.md) | [Personal Resources](https://github.com/kylecreate/100DaysOfCode/blob/main/resources.md)
+[Daily Log](r1-log.md) | [Personal Resources](resources.md)
 
 ## Goals
 - Make it a habit of coding during the week and learning something new
