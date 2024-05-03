@@ -18,7 +18,7 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 - Learn more and in-depth about JavaScript and JS Frameworks
 - Learn SQL, PowerBI and Tableu
 - Gain enough knowledge and create projects to get a job
-- ~~Complete the [FCC Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) certification~~
+- ~~Complete the [FCC Responsive Web Design](https://www.freecodecamp.org/certification/unxdjaay/responsive-web-design/) certification~~
 - Complete the [FCC JavaScript Algorithm and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) certification
 
 ## Completed Projects
