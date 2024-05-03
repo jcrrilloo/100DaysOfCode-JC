@@ -8,39 +8,21 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 
 |Round |  Start Date | End Date |
 | ------------ | ------------ | ------------ |
-| 1 | Jan 2, 2024 | --------|
+| 1 | May 2nd, 2024 | --------|
 
 [Daily Log](https://github.com/kylecreate/100DaysOfCode/blob/main/r1-log.md) | [Personal Resources](https://github.com/kylecreate/100DaysOfCode/blob/main/resources.md)
 
 ## Goals
 - Make it a habit of coding during the week and learning something new
-- ~~Revisit HTML and CSS for deeper knowledge~~
-- Learn more and in-depth about JavaScript, VueJS, Figma, and Tailwind CSS
-- Create real world projects to use in my portfolio
+- Revisit HTML and CSS
+- Learn more and in-depth about JavaScript and JS Frameworks
+- Learn SQL, PowerBI and Tableu
 - Gain enough knowledge and create projects to get a job
 - ~~Complete the [FCC Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) certification~~
 - Complete the [FCC JavaScript Algorithm and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/) certification
-- Complete reading of [Coding All-In-One for Dummies (7 books in 1)](https://www.dummies.com/book/technology/programming-web-design/coding/coding-all-in-one-for-dummies-281666/)
 
 ## Completed Projects
 
 | No.  |  Project Title  |  Completed On | Languages Used
 | :------------: | ------------ | :------------: | :------------: |
-| 1  | [Little Taco Shop](https://github.com/kylecreate/LTS) | 1/9/24 | HTML |
-| 2 | [Tables of Planets](https://github.com/kylecreate/TableOfPlanets) | 1/10/24 | HTML |
-| 3 | [Markup Letter](https://github.com/kylecreate/MarkupLetter) | 1/11/24 | HTML |
-| 4 | [FCC Survey](https://github.com/kylecreate/FCC-Survey) | 1/12/24 | HTML/CSS |
-| 5 | [FCC Tribute](https://github.com/kylecreate/FCC-Tribute) | 1/17/24 | HTML/CSS |
-| 6 | [FCC Tech Doc](https://github.com/kylecreate/FCC-TechDoc) | 1/18/24 | HTML/CSS |
-| 7 | [FCC Product Landing](https://github.com/kylecreate/FCC-ProductLanding) | 1/19/24 | HTML/CSS |
-| 8 | [FCC Personal Portfolio](https://github.com/kylecreate/FCC-Portfolio) | 1/22/24 | HTML/CSS |
-| 9 | [Card Mini-Project](https://github.com/kylecreate/CardMiniProject) | 1/31/24 | HTML/CSS |
-| 10 | [Little Taco Shop - 2](https://github.com/kylecreate/LTS2) | 2/5/24 | HTML/CSS/JS |
-| 11 | [FEM - QR Code Card](https://github.com/kylecreate/QRCode)| 3/11/24 | HTML/CSS |
-| 12 | [FEM - Blog Preview Card](https://github.com/kylecreate/BlogPreview) | 3/11/24 | HTML/CSS |
-| 13 | [FEM - Social Links Profile](https://github.com/kylecreate/SocialLinks) | 3/13/24 | HTML/CSS |
-| 14 | [FEM - Recipe Page](https://github.com/kylecreate/RecipePage) | 3/21/24  | HTML/CSS |
-| 15 | [FEM - Product Preview](https://github.com/kylecreate/ProductPreview) | 3/22/24 | HTML/CSS |
-| 16 | [FEM - Four Card Feature](https://github.com/kylecreate/FourCardFeature) | 3/25/24 | HTML/CSS |
-| 17 | [FEM - Testiomonials Grid Section](https://github.com/kylecreate/TestimonialsGrid) | 3/27/24 | HTML/CSS |
-| 18 | | | |
+| 1  | TBD  |TBD| HTML |
