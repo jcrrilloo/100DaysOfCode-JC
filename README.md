@@ -23,6 +23,6 @@ I started during late-2023, but found that my path wasn't very successful. So, I
 
 ## Completed Projects
 
-| No.  |  Project Title  |  Completed On | Languages Used
+| No.  |  Project Title  |  Completed On | Languages Used | Project Link
 | :------------: | ------------ | :------------: | :------------: |
-| 1  | TBD  |TBD| HTML |
+| 1  | freecodecamp 'Learn Introductory JavScript by Building a Pyramid Generator  |5/4/2024| JavaScript | https://github.com/jcrrilloo/learningcenter/blob/main/pyramid.js
