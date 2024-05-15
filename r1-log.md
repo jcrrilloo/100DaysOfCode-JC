@@ -49,20 +49,16 @@ environment that I am setting up for myself is ensuring that I consistently cont
  <summary>Day 3: May 4,2024</summary>
 
   ### Today's Progress:
-  * Spent all of my time making progress on freecodecamps javascript pyramid generator program. left off on step [80] - made progress all the way to step [102]. Total of [106] steps so I will be finishing that as part of my Day 03 work. 
+  * finished freecodecamps javascript pyramid generator program. The basis of this project was to introduce naming variables, the difference between a 'const' && 'let' declaration. How to use strings and assign boolean factors. In addition, this topic covered how to use a function and pass parameters with a return value. In the function we created we also covered .operators such as '.repeat()' which returns a string with a number of copies of that string. It does not change the orginal awake, just makes a copy and returns it as a new string. 
+
+ * Topics also covered were 'for loops' and 'if' 'else' conditions and how to use a function() within a for loop. The console.log() statement was covered and shown how to print to the console and lastly two other .operators / functions were introduced such as the '.unshift() && .push()' functions.
+ * Some other topics included decrements and increments, and learning how to provide different outputs using for loops
+ * .unshift() : can be used to ad done or more elements to the <strong>beginning</strong> of an array. The orginal array[] is modified by adding that specified element in the front and shifitng those existing elements
+ * .push() : can be used to add one or more elements at the <strong>END</strong> of an array[] it still modifies the orginal array and returns the value with your added node.  
  
-  * Posted Day 02 in Discord - 100DaysOfCode channel
 
-  ### Link to work:
-  * None
-
-  ### New thing(s) learned:
-  1.working with loops more. Nested loops. Unshift() function and what it does to element in an array[].How to use a while,for loop together. 
-  2. .push() function : adds new elements(items) to the end of an array[]
-  3. .unshift() function: allows one to add one or more elements into an array[]
-  4. 
-  ### Thoughts:
-  * I am not a huge fan of the fcc 'ide' environment. I get you are following steps and the whole point is to accomplish the larger project but it has you do three/four different methods of the same project and it can get confusing on what should be best practice. In my opinion it would be better suited to teach the fundementals to get the problem / challenge solved. then highlight different ways to go about it. 
+  ### Solution:
+  * ![pyramid tree](https://github.com/jcrrilloo/100DaysOfCode-JC/assets/164308283/3ae05103-5a27-468a-8803-c2682f929848)
 
   ### Time spent working
   * 2hrs
@@ -72,21 +68,18 @@ environment that I am setting up for myself is ensuring that I consistently cont
  <summary>Day 4: May 5,2024</summary>
 
   ### Today's Progress:
-  * Spent all of my time making progress on freecodecamps javascript pyramid generator program. left off on step [80] - made progress all the way to step [102]. Total of [106] steps so I will be finishing that as part of my Day 03 work. 
- 
-  * Posted Day 02 in Discord - 100DaysOfCode channel
+  * Further learning functions using the MDN documentation page. Followed it's function examples and what you could do with them. Covered what defines a function and how you can pass a list of parameters along with how to follow the correct syntax. Also covered how to create a functino that passes an object as parameter and can define a multiple set of different objects.
+  * Arrays [] covered how you can pass an array in a function and update those array values
 
-  ### Link to work:
-  * None
+  ### Solution: 
+[Solution Output](functionsex.js)
 
   ### New thing(s) learned:
-  1.working with loops more. Nested loops. Unshift() function and what it does to element in an array[].How to use a while,for loop together. 
-  2. .push() function : adds new elements(items) to the end of an array[]
-  3. .unshift() function: allows one to add one or more elements into an array[]
-  4. 
-  ### Thoughts:
-  * I am not a huge fan of the fcc 'ide' environment. I get you are following steps and the whole point is to accomplish the larger project but it has you do three/four different methods of the same project and it can get confusing on what should be best practice. In my opinion it would be better suited to teach the fundementals to get the problem / challenge solved. then highlight different ways to go about it. 
-
+  1. Object[] building
+  2. Passing an object[] as a parameter in a function
+  3. What defines a functin
+  4. conditional loops
+     
   ### Time spent working
   * 2hrs
 </details>
