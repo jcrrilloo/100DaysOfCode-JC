@@ -88,20 +88,19 @@ environment that I am setting up for myself is ensuring that I consistently cont
  <summary>Day 5: May 6,2024</summary>
 
   ### Today's Progress:
-  * Spent all of my time making progress on freecodecamps javascript pyramid generator program. left off on step [80] - made progress all the way to step [102]. Total of [106] steps so I will be finishing that as part of my Day 03 work. 
- 
-  * Posted Day 02 in Discord - 100DaysOfCode channel
+  * Working on free code camps ' learn basic javascript by building a role playing game'. made progress on this project which has a total of [174] steps
+  * Posted in Discord - 100DaysOfCode channel
 
   ### Link to work:
   * None
 
   ### New thing(s) learned:
-  1.working with loops more. Nested loops. Unshift() function and what it does to element in an array[].How to use a while,for loop together. 
-  2. .push() function : adds new elements(items) to the end of an array[]
-  3. .unshift() function: allows one to add one or more elements into an array[]
-  4. 
+  1. how & what the 'document.querySelector()' does in the DOM and how we can use it in JS
+  2. how to target a property in HTML and change its property value using the document.querySelector()
+  3. how to initialize buttons using the '.onclick() method and assigning it's value to your functions and buttons. 
+  4. also learned how to style our game using simple css 
   ### Thoughts:
-  * I am not a huge fan of the fcc 'ide' environment. I get you are following steps and the whole point is to accomplish the larger project but it has you do three/four different methods of the same project and it can get confusing on what should be best practice. In my opinion it would be better suited to teach the fundementals to get the problem / challenge solved. then highlight different ways to go about it. 
+  * liking how we are finally working a bit more on javascrip and the console. Outside of free code camps environment, MDN has been a good resource to learn and try different javascript programs. Another progression has been the free code camps javascript tutorial which is a 20hr long tutorial for full stack. 
 
   ### Time spent working
   * 2hrs
