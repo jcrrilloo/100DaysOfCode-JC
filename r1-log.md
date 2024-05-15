@@ -110,15 +110,12 @@ environment that I am setting up for myself is ensuring that I consistently cont
  <summary>Day 6: May 7,2024</summary>
 
   ### Today's Progress:
-  * 
-
+  * continued progress on 'free code camps' role playing game
   ### Link to work:
   * None
 
-  ### New thing(s) learned:
-  1. 
   ### Thoughts:
-  *  
+  *  none
 
   ### Time spent working
   * 2hrs
@@ -128,17 +125,12 @@ environment that I am setting up for myself is ensuring that I consistently cont
  <summary>Day 7: May 10,2024</summary>
 
   ### Today's Progress:
-  *
+  * progress on 'free code camps' role playing game
  
   *
 
   ### Link to work:
   * None
-
-  ### New thing(s) learned:
-  1.
-  ### Thoughts:
-  * 
 
   ### Time spent working
   * 2hrs
@@ -148,16 +140,11 @@ environment that I am setting up for myself is ensuring that I consistently cont
  <summary>Day 8: May 13,2024</summary>
 
   ### Today's Progress:
-  * 
+  * spent time workong on javascripts role playing game. Also spent a lot of time updating and maintaining my daily logs of the work I have been doing. Currently on Step [38] / [174] of the role playing game. 
   
 
   ### Link to work:
-  * None
-
-  ### New thing(s) learned:
-  1.
-  ### Thoughts:
-  * 
+  * None at the moment.
 
   ### Time spent working
   * 2hrs
@@ -167,21 +154,31 @@ environment that I am setting up for myself is ensuring that I consistently cont
  <summary>Day 9: May 14,2024</summary>
 
   ### Today's Progress:
-  * 
+  * reading MDN - Javascript material
+  * read w3 platform for creating a self portfolio
+  * updated progress in discord channel
+  * putting progresss on socials such as twitter and instagram
+  ### Time spent working
+  * 2hrs
+</details>
+
+
+<details>
+ <summary>Day 10: May 15,2024</summary>
+
+  ### Today's Progress:
+  * step [38] / [174] 
   * 
 
   ### Link to work:
   * None
 
   ### New thing(s) learned:
-  1
+  1. 
   ### Thoughts:
-  *
+  * 
 
   ### Time spent working
-  * 2hrs
+  * 
 </details>
-
-
-
 
