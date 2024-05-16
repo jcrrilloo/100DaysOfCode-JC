@@ -167,18 +167,20 @@ environment that I am setting up for myself is ensuring that I consistently cont
  <summary>Day 10: May 15,2024</summary>
 
   ### Today's Progress:
-  * step [38] / [174] 
-  * 
+  * step [38] - [46] / [174] 
+  * [46] / [174]
 
   ### Link to work:
   * None
 
   ### New thing(s) learned:
-  1. 
+  1. Function parameters:
+  2. repition in code:
+  3. function parameters review:
   ### Thoughts:
-  * 
+  * TBD
 
   ### Time spent working
-  * 
+  * 1hr
 </details>
 
