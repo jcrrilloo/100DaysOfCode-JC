@@ -184,3 +184,22 @@ environment that I am setting up for myself is ensuring that I consistently cont
   * 1hr
 </details>
 
+<details>
+ <summary>Day 11: May 1,2024</summary>
+
+  ### Today's Progress:
+  * step [38] - [46] / [174] 
+  * [46] / [174]
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  1. switch cases
+  2. reversing a string : reverse()
+  ### Thoughts:
+  * TBD
+
+  ### Time spent working
+  * 1hr
+</details>
