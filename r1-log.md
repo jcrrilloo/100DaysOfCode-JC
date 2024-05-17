@@ -197,6 +197,7 @@ environment that I am setting up for myself is ensuring that I consistently cont
   ### New thing(s) learned:
   1. switch cases
   2. reversing a string : reverse()
+  3. edge cases : 
   ### Thoughts:
   * TBD
 
