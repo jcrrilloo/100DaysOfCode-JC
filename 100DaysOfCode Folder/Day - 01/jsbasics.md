@@ -85,5 +85,32 @@ EX: in order to correctly distribute the [ ! ] operator across parentheses, you 
 ```
 
 ### Variables : 
+* used to store information to be referenced and manipulated in a computer program. 
 
+* you can 'label' data with a descripttive name so the program could be understood and read by you and other prograammers. 
+
+**NOTE**: Variables are like containers that hold information. 
+* Purpose: is to label and store data in a computer memory
+* said data - can then be used and changed throughout the lifetime of the program
+
+#### Variables best practice:
+1. declare a variable with the 'let' keyword
+2. 'const' keyword is used when a variable with not be changed and will be 'constant' throughout your program
+3. you assign variables using the assignment operator [ = ]
+4. you can use shortcuts to 'reassign' variables 
+
+Ex: 
+``` +=
+    -=
+    ++
+    --
+```
+5. 'undefined' is a default value for an unassgined variable
+
+##### Initializing a variable
+* in order to initialize a varibale you will need two pieces of syntax. 
+1. 'let' keyword
+2. '==' assignment operator
+* We can give variables names and assign it a value(s) such as int numbers or strings. 
+* once that variable is assigned you can initialize it and it will evaluate to that value you assigned it. 
 ### Strings : 
