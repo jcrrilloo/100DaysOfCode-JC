@@ -1,7 +1,7 @@
 # Command Line & Terminal
 ## The 'Shell'
 
-### Unix Command Summary
+### Terminal Command Summary
 *  cat -- for creating and displaying short files
 * chmod --- changes permissions
 * cd --- changes the directory
@@ -29,8 +29,30 @@
 * telnet --- loog in to another machine
 * wc --- count characters, words, lines
 
-## Basic Terminal Commands:
 
 ## Moving Around Directories:
+*** NOTE *** : `mkdir`, `mv`, `cp` and `rm` commands create, move, copy and remove files and/or directories
+- `mkdir` : creates ( makes a directory)
+- `mv`: moves files and directories from one directory to another or renames a file or directory
+- `cp` : copies files and directories from one location to another
+- `rm` : let's you delete a file or directory passing its name
+
 
 ## Working With Files & Directories:
+- Use good names for files and directories
+- don't use spaces
+- don't begin the name with a - (dash)
+- *** note *** : stick with letters, numbers, .(period or 'full stopo'), - (dash) and _(underscore)
+- surround names of files or directories that have spaces or other special characters with ""(quotes)
+
+## Creating a text file or a file
+- `code`: "name" . "file" opens vscode and creates file
+- `pwd` : will print out your current working directorry
+- `rm` : removing a file should come with caution. the shell works different from the GUI( no trash bin available when you delete a file). when you delete a file, they are unlinked from the file system so that theirr storage space on disk can be recycled. If you `rm` it's gone forever....
+`-i` : are  flags that you should use as best practice in `rm` process to have it prompt you to confirm that you really do want to remove the file.
+
+
+## Wild Cards :
+- `*` : is a wild card ... it matches 'zero' or 'more' characters.
+- `?` : is also a wild card ... matches exactly one character
+- *** note *** : wildcards can be used in combination with each other
