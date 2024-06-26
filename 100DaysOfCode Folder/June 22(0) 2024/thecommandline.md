@@ -1,5 +1,12 @@
 # Command Line & Terminal
-## The 'Shell'
+## The 'Shell' :
+- 'The Shell': provides a way to 'type' commands to  the computer for it to execute.
+- With proper commands, you can ooptimize work flow by using the sheell to repeat tasks, including seaarching thousands of  files
+- the command line:
+* can launch programs that interact with files
+* you can share code with other developers
+* you can control the operating systems with 'command line interfaces' using ther `terminal`
+* easily combines smaller tasks into larger, more powerful workflows
 
 ### Terminal Command Summary
 *  cat -- for creating and displaying short files
