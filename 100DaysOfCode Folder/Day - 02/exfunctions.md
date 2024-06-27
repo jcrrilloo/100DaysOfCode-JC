@@ -1,21 +1,21 @@
 # App Academy 'Muscle Memory' Function Activity
-### Excercise : 
+### Excercise :
 Write 10 functions with different messages and console log them
 
-``` 
+```
 // 1.
 function testOne(firstName) {
     return "First Name: " + firstName;
 }
-// 2. 
+// 2.
 function testTwo(lastName) {
     return "Last Name: " + lastName;
 }
-// 3. 
+// 3.
 function testThree(birthDay){
     return "Birthday: " + birthDay;
 }
-// 4. 
+// 4.
 function testFour(birthLocation) {
     return "Born in: " + birthLocation
 }
@@ -26,7 +26,7 @@ function testFive(age){
 function testSix(zodiacSign){
     return "Zodiac Sign: " + zodiacSign;
 }
-// 6. 
+// 6.
 function testSeven(favoriteFood){
     return "Favorite Food: " + favoriteFood;
 }
@@ -40,7 +40,7 @@ function testNine(gender){
 function testTen(height){
     return "Height: " + height;
 }
-// Test Case: 
+// Test Case:
 console.log(testOne("Joseph"));
 console.log(testTwo("Carrillo"));
 console.log(testThree("October"));
@@ -54,7 +54,7 @@ console.log(testTen("5'10"));
 ```
 
 ### Output:
-``` 
+```
 First Name: Joseph
 Last Name: Carrillo
 Birthday: October
