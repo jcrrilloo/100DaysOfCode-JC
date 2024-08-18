@@ -31,9 +31,9 @@ I created this learning path using [roadmap.sh](https://roadmap.sh/) and plan to
 * [CSS Grid Garden Game](https://cssgridgarden.com/)
 * [CSS Flexbox Froggy Game](https://flexboxfroggy.com/)
 #### Completed Projects
-* [JS & Datastructures - Pyramid Generator][In Progress]
-* [JS & Datastructurs - Calorie Counter[In Progress]
-* [HTML/CSS/JS - Number Guessing Game][In Progress]
+* 
+* 
+* 
 
 ### JavaScript
 * [Jonas Schmedtmann's JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) - <i>uDemy</i>
