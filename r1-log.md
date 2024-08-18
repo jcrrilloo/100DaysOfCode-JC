@@ -204,3 +204,24 @@ environment that I am setting up for myself is ensuring that I consistently cont
   ### Time spent working
   * 1hr
 </details>
+
+<details>
+ <summary>Day 01: Aug 18th,2024</summary>
+
+  ### Today's Progress:
+  * step [] - [] / [] 
+  * [] / 
+
+  ### Link to work:
+  * None
+
+  ### New thing(s) learned:
+  1. 
+  2. 
+  3. 
+  ### Thoughts:
+  * TBD
+
+  ### Time spent working
+  * 
+</details>
